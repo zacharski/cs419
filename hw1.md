@@ -1,5 +1,8 @@
 ##cs419 homework 1
 
+######Note:
+You need to do the work by yourself, all alone, no help whatsoever, by your lonesome.
+
 #### How to submit
 
 send email to `submit.o.bot@gmail.com` The subject line should be
