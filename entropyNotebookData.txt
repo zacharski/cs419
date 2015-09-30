@@ -1,0 +1,21 @@
+ID	name	survived	sex	age group	PcClass	SibSp
+1	Braund, Mr. Owen Harris	0	male	adult	3	Y
+2	Cumings, Mrs. John Bradley	1	female	adult	1	Y
+8	Palsson, Master. Gosta Leonard	0	male	child	3	Y
+11	Sandstrom, Miss. Marguerite Rut	1	female	child	1	Y
+40	Nicola-Yarred, Miss. Jamila	1	female	teen	1	Y
+50	Arnold-Franchi, Mrs. Josef	0	female	teen	3	Y
+205	Cohen, Mr. Gurshon ""Gus"	1	male	teen	3	N
+307	Allison, Master. Hudson Trevor	1	male	child	1	Y
+507	Quick, Mrs. Frederick Charles	1	female	adult	2	Y
+529	Salonen, Mr. Johan Werner	0	male	adult	3	N
+581	Christy, Miss. Julie Rachel	1	female	adult	2	Y
+871	Balkic, Mr. Cerin	0	male	adult	3	N
+17	Rice, Master. Eugene	0	male	child	3	Y
+16	Hewlett, Mrs. (Mary D Kingcome)	1	female	adult	2	N
+68	Crease, Mr. Ernest James	0	male	teen	3	N
+263	Taussig, Mr. Emil	0	male	adult	1	N
+330	Hippach, Miss. Jean Gertrude	1	female	teen	1	N
+505	Maioni, Miss. Roberta	1	female	teen	1	N
+533	Elias, Mr. Joseph Jr	0	male	teen	3	Y
+731	Ilmakangas, Miss. Pieta Sofia	0	female	adult	3	Y
